@@ -1,6 +1,6 @@
 ## Denoising Diffusion Probabilistic Models
 
-A DDPM implemented by PyTorch is used for image generation task.
+A DDPM implemented by PyTorch for image generation task.
 
 ## Reference
 
